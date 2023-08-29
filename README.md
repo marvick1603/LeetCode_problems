@@ -7,11 +7,11 @@ LeetCode offers a diverse range of coding challenges that focus on data structur
 Table of Contents
 Here are the main categories of data structures covered in this repository:
 
-Arrays
-Linked Lists
-Stacks and Queues
-Trees and Graphs
-Hashing
-Sorting and Searching
-Dynamic Programming
-Greedy Algorithms
+<br>Arrays
+<br>Linked Lists
+<br>Stacks and Queues
+<br>Trees and Graphs
+<br>Hashing
+<br>Sorting and Searching
+<br>Dynamic Programming
+<br>Greedy Algorithms
